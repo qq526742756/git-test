@@ -9,5 +9,6 @@ public class FirstClass {
     }
     public void test(){
         System.out.println("mmm");
+        int i = 0;
     }
 }
